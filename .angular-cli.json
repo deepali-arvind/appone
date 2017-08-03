@@ -6,7 +6,7 @@
   "apps": [
     {
       "root": "src",
-      "outDir": "dist",
+      "outDir": "/var/www/html/appone",
       "assets": [
         "assets",
         "favicon.ico"
